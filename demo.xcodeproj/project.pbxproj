@@ -13,6 +13,7 @@
 		6423F24422A6A07A0020418D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6423F24322A6A07A0020418D /* Assets.xcassets */; };
 		6423F24722A6A07A0020418D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6423F24522A6A07A0020418D /* LaunchScreen.storyboard */; };
 		6423F24A22A6A07A0020418D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6423F24922A6A07A0020418D /* main.m */; };
+		6423F25222A6A1890020418D /* SecViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6423F25122A6A1890020418D /* SecViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		6423F24622A6A07A0020418D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6423F24822A6A07A0020418D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6423F24922A6A07A0020418D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6423F25022A6A1890020418D /* SecViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecViewController.h; sourceTree = "<group>"; };
+		6423F25122A6A1890020418D /* SecViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				6423F23B22A6A0790020418D /* AppDelegate.m */,
 				6423F23D22A6A0790020418D /* ViewController.h */,
 				6423F23E22A6A0790020418D /* ViewController.m */,
+				6423F25022A6A1890020418D /* SecViewController.h */,
+				6423F25122A6A1890020418D /* SecViewController.m */,
 				6423F24022A6A0790020418D /* Main.storyboard */,
 				6423F24322A6A07A0020418D /* Assets.xcassets */,
 				6423F24522A6A07A0020418D /* LaunchScreen.storyboard */,
@@ -141,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6423F25222A6A1890020418D /* SecViewController.m in Sources */,
 				6423F23F22A6A0790020418D /* ViewController.m in Sources */,
 				6423F24A22A6A07A0020418D /* main.m in Sources */,
 				6423F23C22A6A0790020418D /* AppDelegate.m in Sources */,
